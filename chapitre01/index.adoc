@@ -1,0 +1,5 @@
+C01 - A écrire
+
+http://github.com/[Github]
+
+This is an attribute reference {quick-uri}[which links this text to the Asciidoctor Quick Reference Guide].

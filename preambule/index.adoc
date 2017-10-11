@@ -1,0 +1,11 @@
+Notes dans ce livre.
+
+TIP: Astuce
+
+NOTE: Note
+
+IMPORTANT: Information importante
+
+CAUTION: Mise en garde
+
+WARNING: Avertissement
