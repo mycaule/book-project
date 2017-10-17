@@ -14,3 +14,7 @@ https://atlas.oreilly.com
 
 #### Presentation website
 https://pages.github.com
+
+Videos for landing pages
+http://coverr.co/
+https://videos.pexels.com
