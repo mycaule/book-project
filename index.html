@@ -1,10 +1,27 @@
 <html>
-<head>
-  <title>Awesome book title</title>
-</head>
+  <head>
+    <title>Titre du super livre</title>
+    <link rel="stylesheet" href="coverr/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- https://code.jquery.com/jquery-1.12.4.min.js -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="coverr/app.js"></script>
+    <script src="smooch/app.js"></script>
+  </head>
 
-<body>
-  Landing page  
-</body>
-
+  <body>
+    <a href="output/index.html">Dernière version du livre</a>
+    
+    <div class="homepage-hero-module">
+      <div class="video-container">
+        <div class="filter"></div>
+        <video autoplay loop class="fillWidth">
+          <source src="coverr/I_Just_Wanted/I_Just_Wanted.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
+          <source src="coverr/I_Just_Wanted/I_Just_Wanted.webm" type="video/webm" />Your browser does not support the video tag. I suggest you upgrade your browser.
+        </video>
+        <!-- FIXME -->
+        <!-- <div class="poster hidden"><img src="coverr/I_Just_Wanted/I_Just_Wanted.jpg" alt=""></div> -->
+      </div>
+    </div>
+  </body>
 </html>
