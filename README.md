@@ -36,29 +36,6 @@ Render DocBook to PDF
 DO SOME RESEARCH HOW TO DO
 ```
 
-## References
+## Wiki
 
-[AsciiDoc Syntax Quick Reference](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
-
-[Asciidoctor User Manual](http://asciidoctor.org/docs/user-manual/)
-
-## TODO
-
-#### About editing
-http://www.aristeia.com/authorAdvice.html
-
-#### Tooling
-https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272
-
-Asciidoc + Atlas
-http://asciidoctor.org/docs/asciidoc-writers-guide/
-https://atlas.oreilly.com
-
-#### Presentation website
-https://pages.github.com
-
-Videos for landing pages
-http://coverr.co/
-https://videos.pexels.com
-
-See https://mycaule.github.io/ama-bot/
+[How to write a book](https://github.com/mycaule/book-project/wiki/How-to-write-a-book)

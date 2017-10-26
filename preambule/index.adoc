@@ -1,4 +1,15 @@
-Notes dans ce livre.
+
+L'objectif de ce livre est de donner aux ingénieurs débutants des clés pour travailler efficacement dans l'industrie informatique aujourd'hui.
+
+Nous illustrons notre propos à l'aide de pistes de lecture issues de livres, blogs, dépôts de code source de contributeurs du monde open source et de grandes compagnies du web.
+
+J'ai voulu ici mettre à la portée des francophones des concepts dans un style similaire à ces ouvrages:
+
+.Ouvrages de référence
+* Steve McConnell's Code Complete
+* Andy Hunt, The Pragmatic Programmer
+
+Dans ce livre, les remarques sont signalées en marge à l'aide de ces icônes.
 
 TIP: Astuce
 
